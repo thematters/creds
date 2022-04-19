@@ -1,1 +1,5 @@
-{"credEquatePlugins":[{"id":"sourcecred/discord","configsByTarget":{}}],"bundledPlugins":["sourcecred/discord"]}
+{
+    "bundledPlugins": [
+        "sourcecred/discord"
+    ]
+}
