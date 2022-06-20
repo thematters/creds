@@ -53,7 +53,10 @@
       "applyAveraging": false,
       "defaultWeight": 1,
       "weights": {
-        "👍": 2
+        "👍": 2,
+        "💗": 2,
+        "❤️": 2,
+        "🔥": 2
       }
     },
     "roleWeightConfig": {
